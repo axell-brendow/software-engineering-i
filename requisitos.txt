@@ -1,0 +1,14 @@
+- O sistema deve possibilitar o cadastro de visitantes.
+- Crianças e idosos devem ser cadastrados.
+- O sistema deve permitir a comunicação de funcionários com visitantes e de visitante com visitante.
+- O sistema deve permitir agendamento e pagamento prévio de visitas.
+- O sistema deve gerar promoções, sortear brindes aos visitantes e notificá-los sobre novidades e eventos.
+- O sistema deve permitir a localização das pessoas e dos carrinhos pelo parque.
+- Visitantes de um mesmo grupo devem poder se localizar.
+- Contatos de um visitante que estejam no parque podem ser localizados caso permitam.
+- O sistema deve traçar as rotas mais curtas.
+- O sistema deve possibilitar a localização de pontos de interesse (restaurantes, banheiros, atrações pré-selecionadas pelo visitante, carrinhos, apoio, etc) mais próximos.
+- O sistema deve possibilitar que um carrinho saiba onde os outros estão.
+- O sistema deve possibilitar que o visitante solicite um carrinho em um ponto qualquer do parque.
+- Se a demanda pelos carrinhos for muito alta, seu uso deve ser otimizado e priorizado para quem necessitar mais.
+- O sistema deve possibilitar ao visitante informar problemas encontrados em qualquer coisa relacionada aos requisitos informados e outras coisas.

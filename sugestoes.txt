@@ -1,0 +1,5 @@
+- Deixar de identificar as pessoas habilitadas a andar de carrinho por pulseiras e deixar o sistema identificar isso.
+- O sistema deve permitir a pesquisa e localização de flores ou árvores específicas no parque.
+- O sistema pode montar um passeio completo pelo parque com as horas delimitadas pelo visitante. De tal forma que o passeio equilibre pontos de parada para descanso e alimentação.
+- O sistema deve contér uma área para pesquisa qualquer tipo de produto que o visitante imagine. De acordo com as opções mostradas, ele deve indicar o caminho mais próximo até o local para a compra.
+- O sistema deve possibilitar ao visitante ter em mãos os locais com os tipos de obras de arte ou plantas que ele goste mais.
