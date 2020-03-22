@@ -1,2 +1,2 @@
 # software-engineering-i
-Repository for the discipline of Software Engineering I
+Repository for the discipline: Software Engineering I
